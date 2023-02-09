@@ -8,7 +8,7 @@ Web Developer and Designer
 * ✉️  You can contact me at [arunfbfb78@gmail.com](mailto:arunfbfb78@gmail.com)
 * 🧠  I'm learning MERN-STACK DEVELOPMENT
 * 🤝  I'm open to collaborating on WEB DESIGNING
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arunpraveen98&label=Profile%20views&color=0e75b6&style=flat" alt="arunpraveen98" /> </p>
 
