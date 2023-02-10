@@ -9,6 +9,9 @@ Web Developer and Designer
 * 🧠  I'm learning MERN-STACK DEVELOPMENT
 * 🤝  I'm open to collaborating on WEB DESIGNING
 
+<div align="center">
+  
+```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 @@       o o                                           @@
 @@       | |                                           @@
@@ -28,3 +31,6 @@ Web Developer and Designer
 @@ _.-' _j L_ '-._                                     @@
 @@(___.'     '.___)                                    @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+  
+</div>
