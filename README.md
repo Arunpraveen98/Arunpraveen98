@@ -7,7 +7,7 @@ Frontend Developer
 * 🌍  I'm based in TAMILNADU🔥
 * ✉️  You can contact me at [arunfbfb78@gmail.com](mailto:arunfbfb78@gmail.com)
 * 🧠  I'm learning MERN-STACK DEVELOPMENT
-* 🤝  I'm open to collaborating on WEB DESIGNING
+* 🤝  I'm open to collaborating on WEB DEVELOPMENT
 
 <div align="center">
   
