@@ -1,14 +1,17 @@
-<h1 align="center">Hi 👋, I'm ARUN PRAVEEN R</h1>
-<h3 align="center">I'm a MERN Stack Developer who loves building web applications.</h3>
-<h1>💫 About Me: </h1>
+<h1 align="center">Hi 👋, I'm 𝔸ℝ𝕌ℕ ℙℝ𝔸𝕍𝔼𝔼ℕ ℝ </h1>
+<h3 align="center">ミ★ 𝙄'𝙢 𝙖 𝙈𝙀𝙍𝙉 𝙎𝙩𝙖𝙘𝙠 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙬𝙝𝙤 𝙡𝙤𝙫𝙚𝙨 𝙗𝙪𝙞𝙡𝙙𝙞𝙣𝙜 𝙬𝙚𝙗 𝙖𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣𝙨. ミ★</h3>
+<h1>🤷‍♂️𝘈𝘣𝘰𝘶𝘵 𝘔𝘦 :</h1>
 
-🌱 I’m currently learning MERN STACK DEVELOPMENT<br><br>👯 I’m looking to collaborate on exciting new projects<br><br>💬 Ask me about | HTML-5 | CSS-3 | | React-js | | MongoDB | | Express-js | | Node-js |<br><br>📫 How to reach me arunfbfb78@gmail.com
+🧑‍💻 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘭𝘦𝘢𝘳𝘯𝘪𝘯𝘨 ▶️ <b>𝘔𝘌𝘙𝘕 𝘚𝘛𝘈𝘊𝘒 𝘋𝘌𝘝𝘌𝘓𝘖𝘗𝘔𝘌𝘕𝘛.</b><br><br>👯 𝘐’𝘮 𝘭𝘰𝘰𝘬𝘪𝘯𝘨 𝘵𝘰 𝘤𝘰𝘭𝘭𝘢𝘣𝘰𝘳𝘢𝘵𝘦 𝘰𝘯 𝘦𝘹𝘤𝘪𝘵𝘪𝘯𝘨 ▶️ <b>𝘯𝘦𝘸 𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴.</b><br><br>💬 𝘈𝘴𝘬 𝘮𝘦 𝘢𝘣𝘰𝘶𝘵 ▶️ | HTML-5 | CSS-3 | | React-js | | MongoDB | | Express-js | | Node-js |<br><br>📧 𝘏𝘰𝘸 𝘵𝘰 𝘳𝘦𝘢𝘤𝘩 𝘮𝘦 ▶️ arunfbfb78@gmail.com
+
+---
+<h3>🔥𝘗𝘳𝘰𝘧𝘪𝘭𝘦 𝘝𝘪𝘦𝘸𝘴 :</h3>
+
+[![](https://visitcount.itsvg.in/api?id=Arunpraveen98&icon=8&color=6)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Arunpraveen98&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Arunpraveen98&icon=8&color=6)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/arun-praveen-r-027521111) 
